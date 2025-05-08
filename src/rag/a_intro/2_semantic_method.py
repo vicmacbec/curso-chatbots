@@ -99,9 +99,10 @@ if __name__ == "__main__":
     tokenizer, model = initialize_model()
 
     # # Define reference text (in Spanish)
-    text_reference = "Hola"
-    # text_reference = """Disciplina científica centrada en el análisis de grandes fuentes de datos
-    # para extraer información, comprender la realidad y descubrir patrones para tomar decisiones."""
+    text_reference = (
+        "Disciplina científica centrada en el análisis de grandes fuentes de datos "
+        "para extraer información, comprender la realidad y descubrir patrones para tomar decisiones."
+    )
 
     print("\nTexto de Referencia:")
     print(text_reference)
