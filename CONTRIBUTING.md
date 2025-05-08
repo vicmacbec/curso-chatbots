@@ -1,8 +1,11 @@
-# Contributing Guidelines
+# Contribuyendo al proyecto
 
-This is a personal tools repository. While you can fork the repository
-for personal use, pull requests are currently not accepted unless
-explicitly requested.
+Para contribuir a este proyecto:
 
-## Usage
-- You may fork this repository for personal use
+1. Haz un fork del repositorio
+2. Crea una rama para tu funcionalidad (`git checkout -b nueva-funcionalidad`)
+3. Realiza tus cambios y haz commit (`git commit -am 'Añadir nueva funcionalidad'`)
+4. Envía los cambios a tu fork (`git push origin nueva-funcionalidad`)
+5. Crea un nuevo Pull Request
+
+Nota: No se aceptan commits directos a la rama principal. Todas las contribuciones deben realizarse a través de pull requests.

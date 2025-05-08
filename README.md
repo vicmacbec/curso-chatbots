@@ -171,7 +171,7 @@ gantt
 - **Gestión de Entornos**: UV (gestor de paquetes moderno)
 - **Control de Versiones**: Git y GitHub
 - **APIs y Modelos**:
-  - OpenAI (GPT-3.5/4)
+  - OpenAI (GPT-4o/4o-mini)
   - HuggingFace (para embeddings y LLMs locales)
 - **Frameworks**:
   - LangChain (para integración de componentes)
@@ -187,11 +187,10 @@ Este repositorio contiene todos los recursos necesarios para seguir el curso:
   - `/rag`: Ejemplos de sistemas RAG
   - `/config`: Configuraciones del proyecto
   - `/local_llm`: Implementación de modelos locales
-  - `/proyecto_code`: Proyecto de asistente de código avanzado
+  - ~~`/proyecto_code`: Proyecto de asistente de código avanzado~~ En desarrollo
 
 - `/data`: Datos de ejemplo para práctica
 
-- `/notebooks`: Jupyter notebooks con explicaciones detalladas
 
 ## 🧩 Metodología
 
