@@ -6,7 +6,11 @@ Este módulo implementa un sistema básico de Recuperación Aumentada de Generac
 
 El sistema RAG (Retrieval Augmented Generation) es una técnica que combina la recuperación de información con la generación de respuestas basadas en lenguaje natural. Esta implementación básica sirve como punto de partida para comprender los fundamentos de los sistemas RAG.
 
-## Flujo del Sistema
+## Contexto en el Curso
+
+Este módulo forma parte del curso "Python Avanzado para LLMs y Chatbots", que sigue la siguiente estructura:
+
+### Flujo del Sistema
 
 ```mermaid
 graph TD
